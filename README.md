@@ -1,2 +1,2 @@
 # 3d-slider
-# Extract rar. kemudian buka file index.html di browser
+# Extract Slider3D.rar kemudian buka file index.html di browser
